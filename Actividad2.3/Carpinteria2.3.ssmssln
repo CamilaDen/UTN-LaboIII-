@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Carpinteria2.3", "Carpinteria2.3\Carpinteria2.3.ssmssqlproj", "{0E7EBEF5-A2A1-4ADF-8595-4F1A6C84CB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7EBEF5-A2A1-4ADF-8595-4F1A6C84CB0B}.Default|Default.ActiveCfg = Default
+		{385357F7-5380-41EA-B0C9-1C91FC7B8D61}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1B20201-2851-4010-A2C3-BDB220B9853C}
+	EndGlobalSection
+EndGlobal
